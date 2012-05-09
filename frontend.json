@@ -1,0 +1,25 @@
+{
+  "name": "Frontend",
+  "dest": "./build/frontend.js",
+  "destMin": "./build/frontend.min.js",
+
+  "coffee": [
+    "lib/jquery",
+    "lib/underscore-min",
+    "lib/backbone-min",
+
+    "lib/d3",
+    "lib/rickshaw.min",
+
+    "namespace",
+    "lib/inflation_data.js",
+    "lib/**/*", 
+
+    "templates/**/*",    
+    "models/**/*",
+    "views/**/*",
+    "routers/**/*",
+    "app"
+  ]
+
+}

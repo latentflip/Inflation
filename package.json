@@ -1,0 +1,10 @@
+{
+  "name": "Inflation",
+  "version": "0.0.1",
+  "dependencies" : {
+    "coffee-script" : ">0.0.0",
+    "eco" : ">0.0.0",
+    "grunt" : ">0.0.0",
+    "grunt-clean" : ">0.0.0"
+  }
+}

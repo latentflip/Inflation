@@ -1,0 +1,11 @@
+<form>
+  <label for='day_rate'>Day Rate</label>
+  <input name='day_rate' id="day_rate" type="text" value="<%=@day_rate%>">
+
+  <label for='time_unchanged'>Since</label>
+  <input name='time_unchanged' id="time_unchanged" type="text" value="<%=@time_unchanged%>">
+
+  <label for='monthly_revenue'>Monthly Revenue</label>
+  <input name='monthly_revenue' id="monthly_revenue" type="text" value="<%=@monthly_revenue%>">
+
+</form>
